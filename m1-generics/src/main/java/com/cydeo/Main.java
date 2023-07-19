@@ -20,6 +20,29 @@ public class Main {
 
         printDoubled(items);
 
+        System.out.println("++++++++++++++++++++++++++++++++++++++");
+
+        FootBallPlayer joe=new FootBallPlayer("joe");
+        BaseBallPlayer pat=new BaseBallPlayer("pat");
+        SoccerPlayer beckham=new SoccerPlayer("beckham");
+
+
+        Team<FootBallPlayer> liverPool=new Team<>("Liver pool");
+        liverPool.addPlayer(joe);
+      //  liverPool.addPlayer(pat);
+       // liverPool.addPlayer(beckham);
+
+      //  Team<String> brokenTeam=new Team<>("is this s team?");
+
+        // Team<Integer> t2=new Team<>("wierd");
+
+
+
+
+
+
+
+
     }
 
     private static void printDoubled(ArrayList<Integer> list){
