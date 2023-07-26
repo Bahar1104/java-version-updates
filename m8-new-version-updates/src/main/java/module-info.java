@@ -1,9 +1,10 @@
-module myModule{
+module module8info{
 
-   exports  com.cydeo.java9;
-   exports com.cydeo.java10;
-   exports com.cydeo.java11;
+    exports  com.cydeo.java9;
+    exports com.cydeo.java10;
 
-    // requires moduleJava8;       // why cant do this ???
 
-        }
+    requires module7info;
+
+
+}

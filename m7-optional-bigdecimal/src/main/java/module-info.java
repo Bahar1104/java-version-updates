@@ -1,4 +1,11 @@
-module moduleJava8 {
+module module7info {
 
-    requires myModule;
+
+    exports com.cydeo;
+
+    requires module8info;
+
+    
+
+
 }
