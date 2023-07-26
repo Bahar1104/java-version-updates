@@ -1,6 +1,6 @@
 package com.cydeo;
 
-import com.cydeo.java10.Apple;
+import com.cydeo.java10.LocalVariableTypeDemo;
 import com.cydeo.java9.FactoryMethodDemo;
 
 import java.util.Arrays;
@@ -37,7 +37,7 @@ public class OptionalDemo {
 
         FactoryMethodDemo f1=new FactoryMethodDemo();
 
-         Apple a=new Apple();
+         LocalVariableTypeDemo a=new LocalVariableTypeDemo();
 
 
 
