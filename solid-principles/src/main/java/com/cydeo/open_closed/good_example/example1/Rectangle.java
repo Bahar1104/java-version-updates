@@ -1,6 +1,6 @@
-package com.cydeo.open_closed.good_example;
+package com.cydeo.open_closed.good_example.example1;
 
-public class Rectangle implements Shape{
+public class Rectangle implements Shape {
 
     private double height;
     private double width;

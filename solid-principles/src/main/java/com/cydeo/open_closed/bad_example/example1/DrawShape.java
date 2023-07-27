@@ -1,4 +1,7 @@
-package com.cydeo.open_closed.bad_example;
+package com.cydeo.open_closed.bad_example.example1;
+
+import com.cydeo.open_closed.bad_example.example1.Circle;
+import com.cydeo.open_closed.bad_example.example1.Rectangle;
 
 import java.util.List;
 
