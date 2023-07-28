@@ -1,6 +1,6 @@
-package com.cydeo.liskov_substitution.liskov_substitution.good_example;
+package com.cydeo.liskov_substitution.bad_example;
 
-public class Rectangle implements Shape{
+public class Rectangle {
 
     int height;
     int width;

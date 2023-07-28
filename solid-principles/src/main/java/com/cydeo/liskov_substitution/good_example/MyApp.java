@@ -1,8 +1,7 @@
-package com.cydeo.liskov_substitution.liskov_substitution.good_example;
+package com.cydeo.liskov_substitution.good_example;
 
 
 
-import java.util.Arrays;
 import java.util.List;
 
 public class MyApp {
